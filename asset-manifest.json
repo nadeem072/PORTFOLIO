@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/PORTFOLIO/static/css/main.0c635a52.css",
+    "main.js": "/PORTFOLIO/static/js/main.9197bbf0.js",
+    "static/css/64.bba8fa55.chunk.css": "/PORTFOLIO/static/css/64.bba8fa55.chunk.css",
+    "static/js/64.56dc6704.chunk.js": "/PORTFOLIO/static/js/64.56dc6704.chunk.js",
+    "static/media/Montserrat-Regular.ttf": "/PORTFOLIO/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/nadeemahmed.pdf": "/PORTFOLIO/static/media/nadeemahmed.73477cf34532ffaa1784.pdf",
+    "static/media/Agustina.woff": "/PORTFOLIO/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/cmacgm.png": "/PORTFOLIO/static/media/cmacgm.50687448899bde91f9d6.png",
+    "static/media/csmahmed.png": "/PORTFOLIO/static/media/csmahmed.58d2617b598310817e33.png",
+    "static/media/manOnTable.svg": "/PORTFOLIO/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/CSAahmed.png": "/PORTFOLIO/static/media/CSAahmed.c1deb88eb50882ed3182.png",
+    "static/media/infosyslogo.jpg": "/PORTFOLIO/static/media/infosyslogo.976c9d299cf476889f4b.jpg",
+    "static/media/contactMailDark.svg": "/PORTFOLIO/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/PORTFOLIO/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/Allstate-Logo.png": "/PORTFOLIO/static/media/Allstate-Logo.d7582891c8af44898eb0.png",
+    "static/media/kseab.jpg": "/PORTFOLIO/static/media/kseab.5809401f4c3079cb8417.jpg",
+    "static/media/vtulogo1.jpg": "/PORTFOLIO/static/media/vtulogo1.1d1ec43bee9917e52995.jpg",
+    "static/media/skill.svg": "/PORTFOLIO/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/PORTFOLIO/index.html",
+    "main.0c635a52.css.map": "/PORTFOLIO/static/css/main.0c635a52.css.map",
+    "main.9197bbf0.js.map": "/PORTFOLIO/static/js/main.9197bbf0.js.map",
+    "64.bba8fa55.chunk.css.map": "/PORTFOLIO/static/css/64.bba8fa55.chunk.css.map",
+    "64.56dc6704.chunk.js.map": "/PORTFOLIO/static/js/64.56dc6704.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c635a52.css",
+    "static/js/main.9197bbf0.js"
+  ]
+}
