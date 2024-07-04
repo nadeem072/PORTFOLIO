@@ -1,7 +1,7 @@
 import React, {useContext} from "react";
 import "./Contact.scss";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
-import {illustration, contactInfo} from "../../portfolio";
+import {illustration, contactInfo,isHireable} from "../../portfolio";
 import {Fade} from "react-reveal";
 import email from "../../assets/lottie/email";
 import DisplayLottie from "../../components/displayLottie/DisplayLottie";
@@ -29,23 +29,18 @@ export default function Contact() {
                 isDark ? "dark-mode contact-text-div" : "contact-text-div"
               }
             >
-              {contactInfo.number && (
-                <>
-                  <a
-                    className="contact-detail"
-                    href={"tel:" + contactInfo.number}
-                  >
-                    {contactInfo.number}
-                  </a>
-                  <br />
-                  <br />
-                </>
-              )}
               <a
                 className="contact-detail-email"
                 href={"mailto:" + contactInfo.email_address}
               >
                 {contactInfo.email_address}
+                <br />
+              <br />
+                <div className="opp-div">
+              <span className="desc-prof">
+                I am Currently Open for opportunities {isHireable}
+              </span>
+            </div>
               </a>
               <br />
               <br />
